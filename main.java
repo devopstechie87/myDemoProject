@@ -1,1 +1,1 @@
-this is a sample Java File.
+this is a sample Java File for GIT .
